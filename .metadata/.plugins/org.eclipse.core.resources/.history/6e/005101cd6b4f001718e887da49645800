@@ -1,0 +1,7 @@
+package com.springboot.servlet;
+
+import com.sun.net.httpserver.Filter;
+
+public class FilterTest extends Filter {
+
+}

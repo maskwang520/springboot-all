@@ -1,0 +1,20 @@
+spring.thymeleaf.cache=false
+spring.thymeleaf.suffix=.html
+spring.thymeleaf.mode=HTML5
+spring.thymeleaf.encoding=UTF-8
+#freemarker的配置
+########################################################
+###FREEMARKER (FreeMarkerAutoConfiguration)
+########################################################
+spring.freemarker.allow-request-override=false
+spring.freemarker.cache=true
+spring.freemarker.check-template-location=true
+spring.freemarker.charset=UTF-8
+spring.freemarker.content-type=text/html
+spring.freemarker.expose-request-attributes=false
+spring.freemarker.expose-session-attributes=false
+spring.freemarker.expose-spring-macro-helpers=false
+#spring.freemarker.request-context-attribute=
+#spring.freemarker.settings.*=
+#spring.freemarker.template-loader-path=classpath:/templates/#comma-separatedlist
+#spring.freemarker.view-names= #whitelistofviewnamesthatcanberesolved

@@ -1,0 +1,21 @@
+package com.java.test;
+
+import javax.annotation.Resource;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.java.Service.PersonService;
+import com.java.entity.Person;
+
+@RestController
+public class PersonTest {
+
+  @Resource
+  PersonService personService;
+  public String save(){
+	  Person p=new Person();
+	  p.setId(1000);
+	  p.setName("maskwang");
+	  return "save sucessful";
+  }
+}

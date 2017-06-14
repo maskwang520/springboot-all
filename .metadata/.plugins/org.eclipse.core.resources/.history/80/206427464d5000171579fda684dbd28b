@@ -1,0 +1,13 @@
+package com.springboot.servlet;
+
+import org.springframework.boot.CommandLineRunner;
+
+public class MyStartUpRunner2 implements CommandLineRunner {
+
+	@Override
+	public void run(String... arg0) throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+}

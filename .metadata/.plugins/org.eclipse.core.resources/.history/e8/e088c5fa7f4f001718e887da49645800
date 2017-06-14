@@ -1,0 +1,5 @@
+package com.springboot.servlet;
+
+public class MyWebAppConfigurer {
+
+}

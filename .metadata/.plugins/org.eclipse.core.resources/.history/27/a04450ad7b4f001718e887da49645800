@@ -1,0 +1,6 @@
+package com.springboot.Controller;
+
+@controller
+public class TestController {
+
+}

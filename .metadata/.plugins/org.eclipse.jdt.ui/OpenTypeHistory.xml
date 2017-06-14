@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=springboot-jpa/D:\/mavenresposity\/org\/springframework\/spring-context\/4.3.8.RELEASE\/spring-context-4.3.8.RELEASE.jar&lt;org.springframework.context(ApplicationContextAware.class[ApplicationContextAware" modifiers="1537" timestamp="1497058962517"/>
+<typeInfo handle="=springboot-jsp/D:\/mavenresposity\/org\/apache\/tomcat\/embed\/tomcat-embed-core\/8.5.14\/tomcat-embed-core-8.5.14.jar&lt;javax.servlet.http(HttpServlet.class[HttpServlet" modifiers="1057" timestamp="1497058981728"/>
+<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/apache\/tomcat\/embed\/tomcat-embed-core\/8.5.14\/tomcat-embed-core-8.5.14.jar&lt;javax.servlet(ServletContextListener.class[ServletContextListener" modifiers="1537" timestamp="1497058981728"/>
+<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/springframework\/spring-web\/4.3.8.RELEASE\/spring-web-4.3.8.RELEASE.jar&lt;org.springframework.web.context(ServletContextAware.class[ServletContextAware" modifiers="1537" timestamp="1497058987890"/>
+<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/apache\/tomcat\/embed\/tomcat-embed-core\/8.5.14\/tomcat-embed-core-8.5.14.jar&lt;javax.servlet.http(HttpSessionContext.class[HttpSessionContext" modifiers="1050113" timestamp="1497058981728"/>
+<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/apache\/tomcat\/embed\/tomcat-embed-core\/8.5.14\/tomcat-embed-core-8.5.14.jar&lt;javax.servlet.http(HttpSessionListener.class[HttpSessionListener" modifiers="1537" timestamp="1497058981728"/>
+<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/springframework\/spring-webmvc\/4.3.8.RELEASE\/spring-webmvc-4.3.8.RELEASE.jar&lt;org.springframework.web.servlet(HandlerInterceptor.class[HandlerInterceptor" modifiers="1537" timestamp="1497058990841"/>
+<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/springframework\/spring-webmvc\/4.3.8.RELEASE\/spring-webmvc-4.3.8.RELEASE.jar&lt;org.springframework.web.servlet(HandlerAdapter.class[HandlerAdapter" modifiers="1537" timestamp="1497058990841"/>
+<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/springframework\/boot\/spring-boot\/1.5.3.RELEASE\/spring-boot-1.5.3.RELEASE.jar&lt;org.springframework.boot(CommandLineRunner.class[CommandLineRunner" modifiers="1537" timestamp="1497058960724"/>
+</typeInfoHistroy>

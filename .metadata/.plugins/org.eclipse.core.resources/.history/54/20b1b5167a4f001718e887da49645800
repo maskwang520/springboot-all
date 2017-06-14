@@ -1,0 +1,21 @@
+package com.springboot.servlet;
+
+import javax.servlet.ServletContextEvent;
+import javax.servlet.ServletContextListener;
+import javax.servlet.annotation.WebListener;
+@WebListener
+public class ListenerTest implements ServletContextListener {
+
+	@Override
+	public void contextDestroyed(ServletContextEvent arg0) {
+		System.out.println("destory***");
+
+	}
+
+	@Override
+	public void contextInitialized(ServletContextEvent arg0) {
+		System.out.println("init***");
+
+	}
+
+}

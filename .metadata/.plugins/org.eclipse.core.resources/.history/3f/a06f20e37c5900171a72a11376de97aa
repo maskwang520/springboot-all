@@ -31,7 +31,7 @@ public class FileUploadController {
 		if (!file.isEmpty()) {
 			try {
 				BufferedOutputStream out = new BufferedOutputStream(
-						new FileOutputStream(new File("D:/"+file.getOriginalFilename())));
+						new FileOutputStream(new File("D:/picture/"+file.getName())));
 				out.write(file.getBytes());
 				out.flush();
 				out.close();

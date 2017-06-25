@@ -1,0 +1,5 @@
+package com.aop.demo2;
+
+public interface Waiter {
+
+}

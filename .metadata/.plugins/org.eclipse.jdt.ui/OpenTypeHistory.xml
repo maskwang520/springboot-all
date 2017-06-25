@@ -9,4 +9,12 @@
 <typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/springframework\/spring-webmvc\/4.3.8.RELEASE\/spring-webmvc-4.3.8.RELEASE.jar&lt;org.springframework.web.servlet(HandlerInterceptor.class[HandlerInterceptor" modifiers="1537" timestamp="1497058990841"/>
 <typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/springframework\/spring-webmvc\/4.3.8.RELEASE\/spring-webmvc-4.3.8.RELEASE.jar&lt;org.springframework.web.servlet(HandlerAdapter.class[HandlerAdapter" modifiers="1537" timestamp="1497058990841"/>
 <typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/springframework\/boot\/spring-boot\/1.5.3.RELEASE\/spring-boot-1.5.3.RELEASE.jar&lt;org.springframework.boot(CommandLineRunner.class[CommandLineRunner" modifiers="1537" timestamp="1497058960724"/>
+<typeInfo handle="=spirngaop/src\/main\/java&lt;com.aop.demo1{ForumService.java[ForumService" modifiers="513" timestamp="1497834111374"/>
+<typeInfo handle="=spirngaop/D:\/jre\/lib\/rt.jar&lt;java.lang.reflect(InvocationHandler.class[InvocationHandler" modifiers="1537" timestamp="1497443116820"/>
+<typeInfo handle="=spirngaop/D:\/mavenresposity\/org\/mockito\/mockito-core\/1.10.19\/mockito-core-1.10.19.jar&lt;org.mockito.internal.stubbing(InvocationContainer.class[InvocationContainer" modifiers="1537" timestamp="1497058975141"/>
+<typeInfo handle="=spirngaop/D:\/mavenresposity\/org\/springframework\/spring-aop\/4.1.5.RELEASE\/spring-aop-4.1.5.RELEASE.jar&lt;org.springframework.aop(MethodBeforeAdvice.class[MethodBeforeAdvice" modifiers="1537" timestamp="1497778406073"/>
+<typeInfo handle="=spirngaop/src\/main\/java&lt;com.aop.demo2{Waiter.java[Waiter" modifiers="513" timestamp="1497850194333"/>
+<typeInfo handle="=spirngaop/D:\/mavenresposity\/org\/springframework\/spring-aop\/4.1.5.RELEASE\/spring-aop-4.1.5.RELEASE.jar&lt;org.springframework.aop(AfterAdvice.class[AfterAdvice" modifiers="1537" timestamp="1497778406073"/>
+<typeInfo handle="=spirngaop/D:\/mavenresposity\/aopalliance\/aopalliance\/1.0\/aopalliance-1.0.jar&lt;org.aopalliance.intercept(MethodInterceptor.class[MethodInterceptor" modifiers="1537" timestamp="1497058932845"/>
+<typeInfo handle="=springboot-redis/D:\/mavenresposity\/org\/springframework\/spring-context\/4.3.8.RELEASE\/spring-context-4.3.8.RELEASE.jar&lt;org.springframework.cache.annotation(CachingConfigurer.class[CachingConfigurer" modifiers="1537" timestamp="1497058962517"/>
 </typeInfoHistroy>

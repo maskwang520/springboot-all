@@ -25,6 +25,11 @@
     <module>springboot-jsp</module>
     <module>springboot-servlet</module>
     <module>springboot-test</module>
+    <module>springboot-databinding</module>
+    <module>springboot-fileupload</module>
+    <module>springboot-xml</module>
+    <module>spirngaop</module>
+    <module>springboot-redis</module>
   </modules>
   <dependencies>
    <dependency>
@@ -52,10 +57,6 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
 
         <!--mysql 连接驱动-->
         <dependency>

@@ -1,0 +1,21 @@
+package com.aop.demo2;
+
+import org.springframework.aop.BeforeAdvice;
+import org.springframework.aop.framework.ProxyFactory;
+
+public class TestBeforeAdvice {
+
+	public static void main(String[] args) {
+		Waiter target=new NaiveWaiter();
+		BeforeAdvice advice=new GreetingBeforeAdvice();
+		//spring 提供的代理工厂
+		ProxyFactory pf=new ProxyFactory();
+		pf.setTarget(target);
+		pf.addAdvice(advice);
+		Waiter proxy=(Waiter)pf.getProxy();
+		proxy.greetTo("mask");
+		proxy.serveTo("mask");
+
+	}
+
+}

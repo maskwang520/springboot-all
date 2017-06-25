@@ -1,0 +1,17 @@
+package com.springboot.cache;
+
+import org.springframework.stereotype.Service;
+
+/**
+ * demoinfo服务接口
+ * @author maskwang
+ *2017年6月21日
+ */
+@Service
+public interface DemoInfoService {
+	 public DemoInfo findById(long id);
+	   
+	 public void deleteFromCache(long id);
+	 
+	 void test();
+}

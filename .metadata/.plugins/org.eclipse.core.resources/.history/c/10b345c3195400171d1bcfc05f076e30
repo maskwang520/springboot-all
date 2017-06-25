@@ -1,0 +1,9 @@
+package com.aop.demo;
+
+public class DemoMethodService {
+
+	public DemoMethodService() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

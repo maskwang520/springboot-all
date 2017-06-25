@@ -1,0 +1,41 @@
+package com.springboot.cache;
+
+import javax.annotation.Resource;
+
+import org.springframework.cache.annotation.Cacheable;
+import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.data.redis.core.ValueOperations;
+
+/**
+ * 实现服务接口
+ * @author maskwang
+ *2017年6月21日
+ */
+public class DemoInfoServiceImpl implements DemoInfoService {
+	@Resource
+	private DemoInfoRepository demoInfoRepository;
+	@Resource
+    private RedisTemplate<String,String> redisTemplate;
+	//keyGenerator="myKeyGenerator"
+    @Cacheable(value="demoInfo") //缓存,这里没有指定key.
+    @Override
+    public DemoInfo findById(long id) {
+       System.err.println("DemoInfoServiceImpl.findById()=========从数据库中进行获取的....id="+id);
+       return demoInfoRepository.findOne(id);
+    }
+
+	@Override
+	public void deleteFromCache(long id) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void test() {
+		ValueOperations<String,String> valueOperations = redisTemplate.opsForValue();
+	    valueOperations.set("mykey4", "random1="+Math.random());
+	    System.out.println(valueOperations.get("mykey4"));
+
+	}
+
+}

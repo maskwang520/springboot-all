@@ -7,7 +7,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="springboot-test"/>
+			<item value="springboot-redis"/>
 			<item value="spring-parent"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -53,6 +53,12 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="springboot-redis"/>
+			<item value="springboot-actutator"/>
+			<item value="spirngaop"/>
+			<item value="springboot-xml"/>
+			<item value="springboot-fileupload"/>
+			<item value="springboot-databinding"/>
 			<item value="springboot-test"/>
 			<item value="springboot-servlet"/>
 			<item value="springboot-jsp"/>
@@ -77,6 +83,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\springboot\spring-parent\springboot-xml\src\main\java\com\App.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -89,26 +96,20 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.springboot.test"/>
-			<item value="org.springboot.servlet"/>
-			<item value="org.springboot.jsp"/>
-			<item value="org.springboot.freemarker"/>
-			<item value="org.springboot.thymeleaf.freemarker"/>
-			<item value="org.springboot.jpa"/>
-			<item value="com.maskwang.springboot.spring_parent"/>
+			<item value="org.springboot.redis"/>
+			<item value="org.springboot.actutator"/>
+			<item value="org.spirngaop"/>
+			<item value="com.maskawng.aopdemo"/>
 		</list>
 		<list key="groupId">
 			<item value="com.maskwang.springboot"/>
+			<item value="com.maskawng"/>
 		</list>
 		<list key="artifactId">
-			<item value="springboot-test"/>
-			<item value="springboot-servlet"/>
-			<item value="springboot-jsp"/>
-			<item value="springboot-thymeleaf"/>
-			<item value="springboot-thymeleaf-freemarker"/>
-			<item value="springboot-freemarker"/>
-			<item value="springboot-jpa"/>
-			<item value="spring-parent"/>
+			<item value="springboot-redis"/>
+			<item value="springboot-actutator"/>
+			<item value="spirngaop"/>
+			<item value="aopdemo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

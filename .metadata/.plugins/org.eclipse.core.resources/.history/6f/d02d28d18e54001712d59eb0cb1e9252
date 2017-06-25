@@ -1,0 +1,18 @@
+package com.aop.demo1;
+
+import java.lang.reflect.InvocationHandler;
+import java.lang.reflect.Method;
+/**
+ * 定义横切逻辑，通过反射调用目标方法，动态的将横切逻辑和业务逻辑编织在一起
+ * @author maskwang
+ *2017年6月19日
+ */
+public class PerformanceHandle implements InvocationHandler {
+
+	@Override
+	public Object invoke(Object arg0, Method arg1, Object[] arg2) throws Throwable {
+		
+		return null;
+	}
+
+}

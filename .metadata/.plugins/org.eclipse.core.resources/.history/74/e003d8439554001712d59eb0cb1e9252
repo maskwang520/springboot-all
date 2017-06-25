@@ -1,0 +1,6 @@
+package com.aop.demo1;
+
+public class TestForumServiceCglib {
+	CglibProxy cp=new CglibProxy();
+	ForumService fs=(ForumService) cp.getProxy(ForumServiceImpl.class);
+}

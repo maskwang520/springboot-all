@@ -1,0 +1,9 @@
+package com.springboot.cache.entity;
+/** 
+* @author maskwang
+* @version 2017年6月24日 
+* 
+*/
+public class PageInfo {
+
+}

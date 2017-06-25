@@ -1,0 +1,9 @@
+package com.aop.demo;
+
+public class DemoAnnotationService {
+
+	public DemoAnnotationService() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

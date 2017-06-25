@@ -1,0 +1,14 @@
+package com.aop.demo2;
+
+import org.springframework.aop.framework.ProxyFactory;
+
+public class TestInterceptor {
+	public void main(String []args){
+		Waiter target=new NaiveWaiter();
+		GreetingInterceptor gi=new GreetingInterceptor();
+		ProxyFactory proxy=new ProxyFactory();
+		proxy.setTarget(target);
+		proxy.addAdvice(gi);
+		Waiter proxy=
+	}
+}

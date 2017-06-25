@@ -1,0 +1,17 @@
+package com.springboot.cache.jpa;
+
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.springboot.cache.entity.UserEntity;
+
+/**
+ * JpaRepository实现Create、Read、Update、Delete的接口，用户继承该类就行，
+ * 里面的方法已经具备了
+ * @author maskwang
+ *2017年6月23日
+ */
+public interface UserJPA extends JpaRepository<UserEntity,Long>
+{
+
+}

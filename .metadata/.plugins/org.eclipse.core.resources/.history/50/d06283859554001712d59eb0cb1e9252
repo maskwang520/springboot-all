@@ -1,0 +1,13 @@
+package com.aop.demo1;
+
+public class TestForumServiceCglib {
+	public void main(String []args){
+	CglibProxy cp=new CglibProxy();
+	ForumService fs=(ForumService) cp.getProxy(ForumServiceImpl.class);
+	fs.removeForum(10);
+	fs.removeTopic(1024);
+	
+	
+	}
+	
+}

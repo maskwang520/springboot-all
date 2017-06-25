@@ -1,0 +1,12 @@
+package com.aop.demo;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class DemoAnnotationService {
+    @Action(name = ""))
+	public void add(){
+		
+	}
+
+}

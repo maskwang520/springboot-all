@@ -1,0 +1,16 @@
+package com.aop.demo;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class Main {
+
+	public Main() {
+		AnnotationConfigApplicationContext context=new AnnotationConfigApplicationContext("AopConfig.clas");
+		DemoAnnotationService das=(DemoAnnotationService) context.getBean("DemoAnnotationService");
+		DemoMethodService dms=(DemoMethodService) context.getBean("DemoMethodService.class");
+		das.add();
+		dms.add();
+	}
+
+}
+

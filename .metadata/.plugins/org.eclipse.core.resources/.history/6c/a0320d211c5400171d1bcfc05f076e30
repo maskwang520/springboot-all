@@ -1,0 +1,9 @@
+package com.aop.demo;
+
+public class AopConfig {
+
+	public AopConfig() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

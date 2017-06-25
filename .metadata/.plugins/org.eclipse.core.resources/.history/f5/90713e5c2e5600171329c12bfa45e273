@@ -1,0 +1,27 @@
+package com.springboot.cache;
+/**
+ * 实现服务接口
+ * @author maskwang
+ *2017年6月21日
+ */
+public class DemoInfoServiceImpl implements DemoInfoService {
+
+	@Override
+	public DemoInfo findById(long id) {
+		
+		return null;
+	}
+
+	@Override
+	public void deleteFromCache(long id) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void test() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

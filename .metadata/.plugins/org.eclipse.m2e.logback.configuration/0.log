@@ -7373,3 +7373,8 @@ Caused by: java.io.FileNotFoundException: E:\springboot\spring-parent\springboot
 2017-06-25 12:05:21,705 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-06-25 12:05:21,709 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-06-25 12:05:21,709 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\springboot\spring-parent\springboot-redis\src\test\resources
+2017-06-25 12:07:42,610 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-25 12:07:42,610 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-25 12:07:42,611 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-25 12:07:42,614 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-25 12:07:42,614 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\springboot\spring-parent\springboot-redis\src\test\resources

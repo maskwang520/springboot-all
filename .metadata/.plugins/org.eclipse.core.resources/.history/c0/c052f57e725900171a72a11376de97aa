@@ -13,7 +13,6 @@ import com.java.Service.PersonService;
 import com.java.entity.Person;
 /**
  * 测试数据库的操作，建立数据库用hibernate的，其他操作可以用jdbcTemplate
- * 此处用jpa较多
  * @author maskwang
  *2017年6月10日
  */

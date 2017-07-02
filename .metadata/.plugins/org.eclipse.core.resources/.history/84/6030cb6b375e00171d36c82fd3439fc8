@@ -1,0 +1,12 @@
+package com.springboot.dao;
+
+import org.springframework.data.repository.CrudRepository;
+
+/** 
+* @author maskwang
+* @version 2017年7月1日 
+* 
+*/
+public class DemoInfoRespository implements CrudRepository<T, ID> {
+
+}

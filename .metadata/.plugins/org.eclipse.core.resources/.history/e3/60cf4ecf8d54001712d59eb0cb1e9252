@@ -1,9 +1,0 @@
-package com.aop.demo1;
-/**
- * 记录监视信息的类
- * @author maskwang
- *2017年6月19日
- */
-public class MethodPerformance {
-
-}

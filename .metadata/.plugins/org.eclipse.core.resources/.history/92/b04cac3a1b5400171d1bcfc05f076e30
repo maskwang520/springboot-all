@@ -1,9 +1,0 @@
-package com.aop.demo;
-
-public class LogAspect {
-
-	public LogAspect() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

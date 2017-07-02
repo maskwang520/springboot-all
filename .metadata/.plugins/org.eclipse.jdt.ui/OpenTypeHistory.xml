@@ -17,4 +17,6 @@
 <typeInfo handle="=spirngaop/D:\/mavenresposity\/org\/springframework\/spring-aop\/4.1.5.RELEASE\/spring-aop-4.1.5.RELEASE.jar&lt;org.springframework.aop(AfterAdvice.class[AfterAdvice" modifiers="1537" timestamp="1497778406073"/>
 <typeInfo handle="=spirngaop/D:\/mavenresposity\/aopalliance\/aopalliance\/1.0\/aopalliance-1.0.jar&lt;org.aopalliance.intercept(MethodInterceptor.class[MethodInterceptor" modifiers="1537" timestamp="1497058932845"/>
 <typeInfo handle="=springboot-redis/D:\/mavenresposity\/org\/springframework\/spring-context\/4.3.8.RELEASE\/spring-context-4.3.8.RELEASE.jar&lt;org.springframework.cache.annotation(CachingConfigurer.class[CachingConfigurer" modifiers="1537" timestamp="1497058962517"/>
+<typeInfo handle="=spirngboot-ehcache/D:\/mavenresposity\/org\/springframework\/data\/spring-data-commons\/1.13.3.RELEASE\/spring-data-commons-1.13.3.RELEASE.jar&lt;org.springframework.data.repository(CrudRepository.class[CrudRepository" modifiers="1537" timestamp="1497059350725"/>
+<typeInfo handle="=spirngboot-ehcache/D:\/mavenresposity\/org\/springframework\/data\/spring-data-jpa\/1.11.3.RELEASE\/spring-data-jpa-1.11.3.RELEASE.jar&lt;org.springframework.data.jpa.repository.support(CrudMethodMetadata.class[CrudMethodMetadata" modifiers="1537" timestamp="1497059349660"/>
 </typeInfoHistroy>

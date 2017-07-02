@@ -1,7 +1,0 @@
-package com.aop.demo2;
-
-import org.springframework.aop.AfterAdvice;
-
-public class GreetingAfterAdvice implements AfterRunningAdvice {
-   
-}

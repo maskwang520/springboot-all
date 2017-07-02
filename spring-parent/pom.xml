@@ -30,6 +30,7 @@
     <module>springboot-xml</module>
     <module>spirngaop</module>
     <module>springboot-redis</module>
+    <module>spirngboot-ehcache</module>
   </modules>
   <dependencies>
    <dependency>

@@ -1,0 +1,44 @@
+package com.springboot.service.impl;
+
+import javax.annotation.Resource;
+
+import com.springboot.dao.DemoInfoRespository;
+import com.springboot.entity.DemoInfo;
+import com.springboot.service.DemoInfoService;
+
+import javassist.NotFoundException;
+
+/** 
+* @author maskwang
+* @version 2017年7月1日 
+* 
+*/
+public class DemoInfoServiceImpl implements DemoInfoService {
+	@Resource
+    private DemoInfoRespository demoInfoRespository;
+	public static final String CACHE_KEY = "'demoInfo'";
+	@Override
+	public void delete(Long id) {
+		demoInfoRespository.delete(id);
+		
+	}
+
+	@Override
+	public DemoInfo update(DemoInfo updated) throws NotFoundException {
+		
+		return demoInfoRespository.;
+	}
+
+	@Override
+	public DemoInfo findById(Long id) {
+		
+		return demoInfoRespository.findOne(id);
+	}
+
+	@Override
+	public DemoInfo save(DemoInfo demoInfo) {
+		
+		return demoInfoRespository.save(demoInfo);
+	}
+
+}

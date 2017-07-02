@@ -1,9 +1,0 @@
-package com.aop.demo1;
-/**
- * 性能监视的实现类
- * @author maskwang
- *2017年6月19日
- */
-public class PerformanceMonitor {
-
-}

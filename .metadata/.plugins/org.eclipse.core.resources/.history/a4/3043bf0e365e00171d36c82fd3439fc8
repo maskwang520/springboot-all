@@ -1,0 +1,13 @@
+package com.springboot.conf;
+/** 
+* @author maskwang
+* @version 2017年7月1日 
+* 
+*/
+public class EhCacheCacheManager {
+	 @Bean
+	    public EhCacheCacheManager ehCacheCacheManager(EhCacheManagerFactoryBean bean){
+	       System.out.println("CacheConfiguration.ehCacheCacheManager()");
+	       return new EhCacheCacheManager(bean.getObject());
+	    }
+}

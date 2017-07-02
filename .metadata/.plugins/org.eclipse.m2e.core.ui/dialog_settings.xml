@@ -7,7 +7,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="springboot-redis"/>
+			<item value="spirngboot-ehcache"/>
 			<item value="spring-parent"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -53,6 +53,7 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="spirngboot-ehcache"/>
 			<item value="springboot-redis"/>
 			<item value="springboot-actutator"/>
 			<item value="spirngaop"/>
@@ -96,6 +97,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="org.spirngboot.ehcache"/>
 			<item value="org.springboot.redis"/>
 			<item value="org.springboot.actutator"/>
 			<item value="org.spirngaop"/>
@@ -106,6 +108,7 @@
 			<item value="com.maskawng"/>
 		</list>
 		<list key="artifactId">
+			<item value="spirngboot-ehcache"/>
 			<item value="springboot-redis"/>
 			<item value="springboot-actutator"/>
 			<item value="spirngaop"/>

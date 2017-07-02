@@ -1,0 +1,10 @@
+package com.springboot.controller;
+/** 
+* @author maskwang
+* @version 2017年7月1日 
+* 
+*/
+
+import org.springframework.beans.factory.annotation.Autowired;
+ed
+}

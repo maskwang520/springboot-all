@@ -1,7 +1,0 @@
-package com.springboot.cache;
-
-import CachingConfigurerSupport;
-
-public class RedisCacheConfig extends CachingConfigurerSupport {
-
-}

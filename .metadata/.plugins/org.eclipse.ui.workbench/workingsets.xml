@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1499854828114_1" label="" name="">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HelloWorld" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/springboot-jpa" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/springboot-thymeleaf" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/springboot-jsp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/springboot-servlet" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/springboot-test" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/springboot-databinding" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/springboot-fileupload" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/springboot-xml" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spirngaop" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/springboot-redis" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spirngboot-ehcache" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/springboot-shiro" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1496935873344_0" label="Window Working Set" name="Aggregate for window 1496935873343"/>
 </workingSetManager>

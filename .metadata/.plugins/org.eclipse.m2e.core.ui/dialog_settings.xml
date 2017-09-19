@@ -7,7 +7,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="spirngboot-ehcache"/>
+			<item value="springboot-shiro"/>
 			<item value="spring-parent"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -40,6 +40,19 @@
 		<item value="64" key="y"/>
 		<item value="450" key="height"/>
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\springboot"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 	<section name="MavenProjectWizardArchetypePage">
 		<item value="internal" key="catalog"/>
 		<list key="projectNameTemplate">
@@ -53,6 +66,7 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="springboot-shiro"/>
 			<item value="spirngboot-ehcache"/>
 			<item value="springboot-redis"/>
 			<item value="springboot-actutator"/>
@@ -97,6 +111,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="org.springboot.shiro"/>
 			<item value="org.spirngboot.ehcache"/>
 			<item value="org.springboot.redis"/>
 			<item value="org.springboot.actutator"/>
@@ -108,6 +123,7 @@
 			<item value="com.maskawng"/>
 		</list>
 		<list key="artifactId">
+			<item value="springboot-shiro"/>
 			<item value="spirngboot-ehcache"/>
 			<item value="springboot-redis"/>
 			<item value="springboot-actutator"/>

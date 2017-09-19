@@ -1,22 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-<typeInfo handle="=springboot-jpa/D:\/mavenresposity\/org\/springframework\/spring-context\/4.3.8.RELEASE\/spring-context-4.3.8.RELEASE.jar&lt;org.springframework.context(ApplicationContextAware.class[ApplicationContextAware" modifiers="1537" timestamp="1497058962517"/>
-<typeInfo handle="=springboot-jsp/D:\/mavenresposity\/org\/apache\/tomcat\/embed\/tomcat-embed-core\/8.5.14\/tomcat-embed-core-8.5.14.jar&lt;javax.servlet.http(HttpServlet.class[HttpServlet" modifiers="1057" timestamp="1497058981728"/>
-<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/apache\/tomcat\/embed\/tomcat-embed-core\/8.5.14\/tomcat-embed-core-8.5.14.jar&lt;javax.servlet(ServletContextListener.class[ServletContextListener" modifiers="1537" timestamp="1497058981728"/>
-<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/springframework\/spring-web\/4.3.8.RELEASE\/spring-web-4.3.8.RELEASE.jar&lt;org.springframework.web.context(ServletContextAware.class[ServletContextAware" modifiers="1537" timestamp="1497058987890"/>
-<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/apache\/tomcat\/embed\/tomcat-embed-core\/8.5.14\/tomcat-embed-core-8.5.14.jar&lt;javax.servlet.http(HttpSessionContext.class[HttpSessionContext" modifiers="1050113" timestamp="1497058981728"/>
-<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/apache\/tomcat\/embed\/tomcat-embed-core\/8.5.14\/tomcat-embed-core-8.5.14.jar&lt;javax.servlet.http(HttpSessionListener.class[HttpSessionListener" modifiers="1537" timestamp="1497058981728"/>
-<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/springframework\/spring-webmvc\/4.3.8.RELEASE\/spring-webmvc-4.3.8.RELEASE.jar&lt;org.springframework.web.servlet(HandlerInterceptor.class[HandlerInterceptor" modifiers="1537" timestamp="1497058990841"/>
-<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/springframework\/spring-webmvc\/4.3.8.RELEASE\/spring-webmvc-4.3.8.RELEASE.jar&lt;org.springframework.web.servlet(HandlerAdapter.class[HandlerAdapter" modifiers="1537" timestamp="1497058990841"/>
-<typeInfo handle="=springboot-servlet/D:\/mavenresposity\/org\/springframework\/boot\/spring-boot\/1.5.3.RELEASE\/spring-boot-1.5.3.RELEASE.jar&lt;org.springframework.boot(CommandLineRunner.class[CommandLineRunner" modifiers="1537" timestamp="1497058960724"/>
-<typeInfo handle="=spirngaop/src\/main\/java&lt;com.aop.demo1{ForumService.java[ForumService" modifiers="513" timestamp="1497834111374"/>
-<typeInfo handle="=spirngaop/D:\/jre\/lib\/rt.jar&lt;java.lang.reflect(InvocationHandler.class[InvocationHandler" modifiers="1537" timestamp="1497443116820"/>
-<typeInfo handle="=spirngaop/D:\/mavenresposity\/org\/mockito\/mockito-core\/1.10.19\/mockito-core-1.10.19.jar&lt;org.mockito.internal.stubbing(InvocationContainer.class[InvocationContainer" modifiers="1537" timestamp="1497058975141"/>
-<typeInfo handle="=spirngaop/D:\/mavenresposity\/org\/springframework\/spring-aop\/4.1.5.RELEASE\/spring-aop-4.1.5.RELEASE.jar&lt;org.springframework.aop(MethodBeforeAdvice.class[MethodBeforeAdvice" modifiers="1537" timestamp="1497778406073"/>
-<typeInfo handle="=spirngaop/src\/main\/java&lt;com.aop.demo2{Waiter.java[Waiter" modifiers="513" timestamp="1497850194333"/>
-<typeInfo handle="=spirngaop/D:\/mavenresposity\/org\/springframework\/spring-aop\/4.1.5.RELEASE\/spring-aop-4.1.5.RELEASE.jar&lt;org.springframework.aop(AfterAdvice.class[AfterAdvice" modifiers="1537" timestamp="1497778406073"/>
-<typeInfo handle="=spirngaop/D:\/mavenresposity\/aopalliance\/aopalliance\/1.0\/aopalliance-1.0.jar&lt;org.aopalliance.intercept(MethodInterceptor.class[MethodInterceptor" modifiers="1537" timestamp="1497058932845"/>
-<typeInfo handle="=springboot-redis/D:\/mavenresposity\/org\/springframework\/spring-context\/4.3.8.RELEASE\/spring-context-4.3.8.RELEASE.jar&lt;org.springframework.cache.annotation(CachingConfigurer.class[CachingConfigurer" modifiers="1537" timestamp="1497058962517"/>
-<typeInfo handle="=spirngboot-ehcache/D:\/mavenresposity\/org\/springframework\/data\/spring-data-commons\/1.13.3.RELEASE\/spring-data-commons-1.13.3.RELEASE.jar&lt;org.springframework.data.repository(CrudRepository.class[CrudRepository" modifiers="1537" timestamp="1497059350725"/>
-<typeInfo handle="=spirngboot-ehcache/D:\/mavenresposity\/org\/springframework\/data\/spring-data-jpa\/1.11.3.RELEASE\/spring-data-jpa-1.11.3.RELEASE.jar&lt;org.springframework.data.jpa.repository.support(CrudMethodMetadata.class[CrudMethodMetadata" modifiers="1537" timestamp="1497059349660"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>

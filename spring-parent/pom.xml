@@ -31,6 +31,11 @@
     <module>spirngaop</module>
     <module>springboot-redis</module>
     <module>spirngboot-ehcache</module>
+    <module>springboot-multids</module>
+    <module>springboot-shiro</module>
+    <module>springboot-activemq</module>
+    <module>springboot-velocity</module>
+    <module>springboot-schedule</module>
   </modules>
   <dependencies>
    <dependency>

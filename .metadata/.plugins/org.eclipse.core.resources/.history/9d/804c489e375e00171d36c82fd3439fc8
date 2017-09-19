@@ -1,9 +1,0 @@
-package com.springboot.service;
-/** 
-* @author maskwang
-* @version 2017年7月1日 
-* 
-*/
-public class DemoInfoService {
-
-}

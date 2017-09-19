@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;App.java&apos; to &apos;springboot&apos;&#x0D;&#x0A;- Original project: &apos;spirngboot-ehcache&apos;&#x0D;&#x0A;- Destination element: &apos;springboot&apos;&#x0D;&#x0A;- Original element: &apos;App.java&apos;" description="Copy file" element1="src/main/java/com/springboot/App.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1498960103504" target="/springboot-shiro/src/main/java/com/springboot" units="0" version="1.0"/>
+</session>

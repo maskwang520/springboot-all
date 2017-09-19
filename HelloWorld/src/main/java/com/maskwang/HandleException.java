@@ -6,16 +6,14 @@ import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
 /**
- * »´æ÷“Ï≥£¥¶¿Ì
- * 
+ * ÂÖ®Â±ÄÂºÇÂ∏∏Â§ÑÁêÜ
  * @author maskwang
- *
+ *2017Âπ¥7Êúà11Êó•
  */
 @ControllerAdvice
 public class HandleException {
-	@ExceptionHandler(value = Exception.class)
+	@ExceptionHandler(value = ArithmeticException.class)
 	public void handle(HttpServletRequest req, Exception e) {
-		e.printStackTrace();
 		System.out.println("error:maskwang");
 	}
 
